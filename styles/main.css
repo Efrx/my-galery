@@ -177,9 +177,6 @@ img {
 
         --block-division: 3rem;
     }
-    .header__profile--img-container {
-        width: 16rem;
-    }
 }
 
 @media (min-width: 768px ) { 
